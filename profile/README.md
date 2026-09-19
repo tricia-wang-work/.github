@@ -18,6 +18,7 @@ Proof-of-Control: an open specification defining cryptographically verifiable ev
 
 
 # Initial Committers
+https://github.com/tricia-wang-work <br>
 https://github.com/kenhuangus <br>
 https://github.com/jim-schwoebel <br>
 https://github.com/MSadek-r7 
