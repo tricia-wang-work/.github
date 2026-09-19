@@ -4,6 +4,14 @@ title: Open Verification Proof-of-Control
 parent: Approved Labs
 ---
 
+# 📣 Latest
+
+> **Launch of v1.0** (September 2026) — the v1.0 working draft of the
+> [Proof-of-Control Standard](https://github.com/LFDT-ProofOfControl/ov-poc-standard)
+> is open for public comment through **October 30, 2026**. Comment on the
+> [Google Doc](https://docs.google.com/document/d/1EiiGDwLXvMxoSHp3Ru56AhR2u9gNd-6Fjs_CKZ4kU-w/edit?tab=t.0#heading=h.5cwdygy69mua)
+> or in the [GitHub repository](https://github.com/LFDT-ProofOfControl/ov-poc-standard).
+
 # Lab Name
 [Open Verification: Proof-of-Control](https://github.com/LFDT-ProofOfControl)
 
